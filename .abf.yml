@@ -1,0 +1,5 @@
+sources:
+  "postgres.profile:"	5ce9c6fe5586a6b453f96e8eb61c48f51e579965
+  "postgresql-8.5alpha3.tar.bz2:"	69a8ab55eac577c314919c5e9511482657dcacaa
+  "postgresql.init:"	142e2023748491bcda75c4d38c8c8fc9479512fd
+  "postgresql.mdv.releasenote:"	fb611597a84dd1152c8e13d8be7d6ea47ee1cb23
