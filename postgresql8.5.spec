@@ -47,6 +47,11 @@ Source13:	postgresql.mdv.releasenote
 Requires:	perl
 Provides:	postgresql-clients = %{version}-%{release}
 Conflicts:	postgresql-clients < %{version}-%{release}
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	bison flex
 BuildRequires:	openssl-devel
 BuildRequires:	pam-devel
